@@ -1,0 +1,37 @@
+.container {
+  width: 400px;
+  background-color: rgb(66, 65, 65);
+  height: 300px;
+  margin: 10rem auto;
+  border: none;
+  border-radius: 10px;
+}
+
+.main {
+  width: 100%;
+  text-align: left;
+  padding: 30px;
+  height: max-content;
+}
+
+h1 {
+  color: #fff;
+}
+
+p{
+  color: #ccc;
+  word-wrap: break-word;
+}
+
+.circle-buttons {
+  display: flex;
+  width: 100%;
+  height: max-content;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  display: flex;
+  margin: 10px auto;
+}
